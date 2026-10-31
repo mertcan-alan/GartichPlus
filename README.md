@@ -1,10 +1,10 @@
-# GarticPlus 🎨
+# GarticPlus 
 
 GarticPlus, [Gartic Phone](https://garticphone.com) deneyimini geliştirmek için tasarlanmış bir tarayıcı eklentisidir. Çizim ekranınıza referans görseller eklemenizi, otomatik çizim araçlarını kullanmanızı ve simetrik çizimler yapmanızı kolaylaştırır.
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
 - **Referans Görsel Katmanı:** Çizim alanının üzerine sürükleyip bırakabileceğiniz, boyutunu ve opaklığını ayarlayabileceğiniz referans katmanı.
 - **Otomatik Çizim Paneli:** Yüklediğiniz görselleri analiz ederek tuvale otomatik çizim yapma imkanı.
@@ -14,7 +14,7 @@ GarticPlus, [Gartic Phone](https://garticphone.com) deneyimini geliştirmek içi
 
 ---
 
-## 🛠️ Kurulum (Geliştirici Modu)
+##  Kurulum (Geliştirici Modu)
 
 Eklentiyi yerel olarak tarayıcınıza yüklemek için:
 
