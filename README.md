@@ -20,4 +20,4 @@ Eklentiyi yerel olarak tarayıcınıza yüklemek için:
 
 1. Bu depoyu indirin veya klonlayın:
    ```bash
-   git clone [https://github.com/mertcan-alan/GartichPlus.git](https://github.com/mertcan-alan/GartichPlus.git)
+   git clone https://github.com/mertcan-alan/GartichPlus.git
