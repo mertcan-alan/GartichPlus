@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "GarticPlus",
+  "version": "2.1.0",
+  "description": "Garticphone çizim ekranına referans görsel katmanı, otomatik çizim paneli ve simetri (mirror) çizimi ekler.",
+  "permissions": ["storage", "debugger"],
+  "background": { "service_worker": "background.js" },
+  "icons": { "16": "icons/icon16.png", "32": "icons/icon32.png", "48": "icons/icon48.png", "128": "icons/icon128.png" },
+  "content_scripts": [
+    {
+      "matches": ["https://garticphone.com/*", "https://*.garticphone.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["logo.svg"],
+      "matches": ["https://garticphone.com/*", "https://*.garticphone.com/*"]
+    }
+  ]
+}
