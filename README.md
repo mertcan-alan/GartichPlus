@@ -1,7 +1,7 @@
 # GarticPlus 
 
-[![Chrome Extension]([https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/speedcut-youtube-speed-co/boiednpnahaahceggfbfejjpljpmmgpg](https://chromewebstore.google.com/detail/garticplus/lmdoakmblggnnpndaohimoaamfngaljp?hl=tr&authuser=1))
-[![Manifest V3](https://img.shields.io/badge/Manifest-V3-00C853?style=for-the-badge)](https://developer.chrome.com/docs/extensions/mv3/)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://chromewebstore.google.com/detail/speedcut-youtube-speed-co/boiednpnahaahceggfbfejjpljpmmgpg](https://chromewebstore.google.com/detail/garticplus/lmdoakmblggnnpndaohimoaamfngaljp?hl=tr&authuser=1))
+[![Gizlilik Politikası](https://img.shields.io/badge/Manifest-V3-00C853?style=for-the-badge)]([https://developer.chrome.com/docs/extensions/mv3/](https://mertcan-alan.github.io/GartichPlus/))
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 GarticPlus, [Gartic Phone](https://garticphone.com) deneyimini geliştirmek için tasarlanmış bir tarayıcı eklentisidir. Çizim ekranınıza referans görseller eklemenizi, otomatik çizim araçlarını kullanmanızı ve simetrik çizimler yapmanızı kolaylaştırır.
