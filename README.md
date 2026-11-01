@@ -1,6 +1,6 @@
 # GarticPlus 
 
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://chromewebstore.google.com/detail/speedcut-youtube-speed-co/boiednpnahaahceggfbfejjpljpmmgpg](https://chromewebstore.google.com/detail/garticplus/lmdoakmblggnnpndaohimoaamfngaljp?hl=tr&authuser=1))
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/garticplus/lmdoakmblggnnpndaohimoaamfngaljp?hl=tr&authuser=1)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 <br>
 [![Gizlilik Politikası](https://img.shields.io/badge/Gizlilik_Politikası-6A1B9A?style=for-the-badge)](https://mertcan-alan.github.io/GartichPlus/)
